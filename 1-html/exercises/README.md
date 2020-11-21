@@ -1,4 +1,4 @@
-# My HTML learning
+# My HTML learning Exercices
 
 ## Pengolin
 **Focus:** The learning focuses on using the Paragraph and Headings tags
