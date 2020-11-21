@@ -18,7 +18,7 @@
 
 **Progress**
 
-- Add the necessary markup to create two lists: Ordered and unordered
+- Add Ordered and unordered lists to a page
 
 **Work & Resources**
 
@@ -33,7 +33,8 @@
 
 - Create a HTML document
 - Add and image and anchor tags to the document
+- working with attributes
 
 **Work & Resources**
 
-- - [Wolf Image](https://github.com/4zwazo/web-development-bootcamp/tree/main/1-html/exercises/3-wolf-images/index.html)
+- [Wolf Image](https://github.com/4zwazo/web-development-bootcamp/tree/main/1-html/exercises/3-wolf-images/index.html)
