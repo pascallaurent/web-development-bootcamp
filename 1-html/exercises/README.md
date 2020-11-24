@@ -38,3 +38,15 @@
 **Work & Resources**
 
 - [Wolf Image](https://github.com/4zwazo/web-development-bootcamp/tree/main/1-html/exercises/3-wolf-images/index.html)
+
+---
+
+## Snowman
+**Focus:** The learning focuses on playing around with entity codes
+
+**Progress**
+
+- Create a HTML document
+- Add entity codes to the page
+
+**Work & Resources**
